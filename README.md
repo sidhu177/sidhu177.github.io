@@ -1,3 +1,3 @@
 # Welcome to my cyber space
 
-lorem ipsum dolor sit
+This repo contains code related to the github pages.
