@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The idea of Seniority in Dev World"
+title: "The idea of Seniority"
 categories: misc
 ---
 
