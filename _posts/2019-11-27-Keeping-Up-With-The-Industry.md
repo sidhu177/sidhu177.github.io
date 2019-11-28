@@ -1,0 +1,3 @@
+## Keeping up with the Industry 
+
+I dont know who came up with the moniker "Keeping with the Joneses" or what the purport of that was. But I do know you have to keep up with your industry. I get that the scare of technology obsolesence is always there but sometimes its magnified, like when you are in an organisation that does not care for technology so you have to work with a not the latest stack. The industry keeps moving on but yours org does not. You can be doing really great job but if the skill looses economic values in the industry then doesnt matter how much skill you have, you are going to not be valued higher economically.
